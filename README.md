@@ -1,6 +1,6 @@
 # CSS Grid Practice
 
-This repository is created for practicing CSS Grid layout. It contains examples and execrises to help me master the CSS Grid.
+This repository is created for practising CSS Grid layout. It contains examples and exercises to help me master the CSS Grid.
 
 ## Table of Contents
 
@@ -16,4 +16,5 @@ CSS Grid is a powerful tool for creating complex layouts on the web. This reposi
 1. Use two different ways to create a 3 \* 2 grid.
 
    Result:
+   
    ![Expected Result Snapshot](./practice01-create-grid/result.png)
