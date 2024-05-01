@@ -6,6 +6,7 @@ This repository is created for practising CSS layout. It contains examples and e
 
 - [Practice01 - Create Grids](#practice01---create-grids)
 - [Practice02 - Navigation Bar](#practice02---navigation-bar)
+- [Practice03 - Photo Gallery](#practice03---photo-gallery)
 
 ## Practice01 - Create Grids
 
@@ -26,3 +27,15 @@ Mobile
 Tablets (768px) and wider screens
 
 ![Tablets](/practice02-navigation-bar/assets/images/tablets.png)
+
+## Practice03 - Photo Gallery
+
+Create a photo gallery similar to the image below.
+
+Mobile & Tablets
+
+![mobile&tablets](/practice03-photo-gallery/assets/images/mobile&tablets.png)
+
+Laptops
+
+![laptops](/practice03-photo-gallery/assets/images/laptops.png)
