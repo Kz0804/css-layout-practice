@@ -5,6 +5,7 @@ This repository is created for practising CSS layout. It contains examples and e
 ## Table of Contents
 
 - [Practice01 - Create Grids](#practice01---create-grids)
+- [Practice02 - Navigation Bar](#practice02---navigation-bar)
 
 ## Practice01 - Create Grids
 
