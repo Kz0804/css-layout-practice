@@ -45,3 +45,9 @@ Laptops
 Create a Responsive List similar to the image below.
 
 <img src="/practice04-responsive-list/result.png" width="300">
+
+## Practice05 - Scss and Grid
+
+Use scss and grid to create a web page similar to the image below.
+
+<img src="/practice05-scss&grid/result.png" width="300">
