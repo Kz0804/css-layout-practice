@@ -7,6 +7,8 @@ This repository is created for practising CSS layout. It contains examples and e
 1. [Practice01 - Create Grids](#practice01---create-grids)
 2. [Practice02 - Navigation Bar](#practice02---navigation-bar)
 3. [Practice03 - Photo Gallery](#practice03---photo-gallery)
+4. [Practice04 - Responsive List](#practice04---responsive-list)
+5. [Practice05 - Scss and Grid](#practice05---scss-and-grid)
 
 ## Practice01 - Create Grids
 
@@ -50,4 +52,4 @@ Create a Responsive List similar to the image below.
 
 Use scss and grid to create a web page similar to the image below.
 
-<img src="/practice05-scss&grid/result.png" width="300">
+<img src="/practice05-scss-and-grid/result.png" width="300">
