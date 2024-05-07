@@ -4,9 +4,9 @@ This repository is created for practising CSS layout. It contains examples and e
 
 ## Table of Contents
 
-- [Practice01 - Create Grids](#practice01---create-grids)
-- [Practice02 - Navigation Bar](#practice02---navigation-bar)
-- [Practice03 - Photo Gallery](#practice03---photo-gallery)
+1. [Practice01 - Create Grids](#practice01---create-grids)
+2. [Practice02 - Navigation Bar](#practice02---navigation-bar)
+3. [Practice03 - Photo Gallery](#practice03---photo-gallery)
 
 ## Practice01 - Create Grids
 
@@ -39,3 +39,9 @@ Mobile & Tablets
 Laptops
 
 ![laptops](/practice03-photo-gallery/assets/images/laptops.png)
+
+## Practice04 - Responsive List
+
+Create a Responsive List similar to the image below.
+
+![result](/practice04-responsive-list/result.png)
