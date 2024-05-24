@@ -9,6 +9,7 @@ Welcome to my HTML-CSS practice playground! This repository is my personal space
 3. [Practice03 - Photo Gallery](#practice03---photo-gallery)
 4. [Practice04 - Responsive List](#practice04---responsive-list)
 5. [Practice05 - Scss and Grid](#practice05---scss-and-grid)
+6. [Practice06 Responsive Cards](#practice06-responsive-cards)
 
 ## Practice01 - Create Grids
 
