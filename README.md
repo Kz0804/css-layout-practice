@@ -1,6 +1,6 @@
-# CSS Layout Practice
+# HTML and CSS Practice
 
-This repository is created for practising CSS layout. It contains examples and exercises to help me master the CSS Layout.
+Welcome to my HTML-CSS practice playground! This repository is my personal space for honing my skills in HTML and CSS. Whether I'm experimenting with new layouts, refining my understanding of responsive design, or simply enjoying the process of coding, this repository is where I can freely explore and grow as a front-end developer.
 
 ## Table of Contents
 
