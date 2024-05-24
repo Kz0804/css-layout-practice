@@ -53,3 +53,9 @@ Create a Responsive List similar to the image below.
 Use scss and grid to create a web page similar to the image below.
 
 <img src="/practice05-scss-and-grid/result.png" width="300">
+
+## Practice06 Responsive Cards
+
+Use scss to create responsive cards similar to the image below.
+
+<img src="/practice06-responsive-cards/result.png" width="300">
